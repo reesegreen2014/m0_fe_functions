@@ -38,7 +38,7 @@ let chosenNumber = 5;
 let answer = square(chosenNumber); 
 console.log(`The square of ${chosenNumber} is ${answer}.`);
 
-//Had to Google for this one... I was stuck! 
+//Had to Google for this one and learn more... I was stuck! 
 
 // 5: Write a function named checkStock that satisfies the following interaction pattern:
 // Hint: You will only write one checkStock function that checks the quantity and then prints the corresponding statement.

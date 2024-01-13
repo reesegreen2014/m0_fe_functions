@@ -21,9 +21,18 @@
 
 // SECTION 2: Calling methods on variables assigned to strings.
 // Declare 2 variables assigned to strings.
+// var firstLast: "Reese Green" 
+    firstLast.toLowerCase(); reese green
+    firstLast.includes("Reese"); true
+// var birthCityState = "Waxahachie, Texas"
+    birthCityState.endsWith("xas"); true
+    birthCityState.startsWith("Wax"); true
+
+
 // Call a different built-in JavaScript method on each of your variables. 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
 // Include comments above each method call explaining the impact and return value of that method.
+
 
 // EXAMPLE
 // The startsWith() method is called on the firstName variable, which stores the string object "Jeff". 
@@ -37,6 +46,10 @@ console.log(firstName.startsWith("J"));
 
 // SECTION 3: Calling methods on variables assigned to arrays.
 // Declare 2 variables assigned to arrays.
+var ageArray = (25, 26, 27, 28)
+    
+var seasonArray = ("Winter", "Summer", "Spring", "Fall")
+
 // Call a different built-in JavaScript method on each of your variables. 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 // Include comments above each method call explaining the impact and return value of that method.
