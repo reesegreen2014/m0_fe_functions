@@ -46,9 +46,13 @@ console.log(firstName.startsWith("J"));
 
 // SECTION 3: Calling methods on variables assigned to arrays.
 // Declare 2 variables assigned to arrays.
-var ageArray = (25, 26, 27, 28)
-    
+var nameArray = ["Reese", "Avery", "Drew", "John"]
+    console.log(nameArray[0])
+    Reese
+
 var seasonArray = ("Winter", "Summer", "Spring", "Fall")
+    seasonArray.length
+    4
 
 // Call a different built-in JavaScript method on each of your variables. 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
