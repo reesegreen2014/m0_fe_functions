@@ -1,4 +1,4 @@
 # Self-Evaluation
 
-- Reflect on your learning and work today. What are you most proud of?
-- In your own words, why are functions a powerful tool in our applications?
+- Reflect on your learning and work today. What are you most proud of? I was proud that I pushed through. Functions definitely confused me the most, and I started getting down on myself about it. With researching (and having my peers help), I was able to get through it. I searched the web for different things, and I think that caused more confusion because there's SO much information out there that is outside of the scope of what I have learned so far. 
+- In your own words, why are functions a powerful tool in our applications? Functions are extremely important because they can assist you with applying criteria to a large set of data. It allows you to create a package of instructions for a program to follow, which allows for more efficiency when working with large sets of data.
