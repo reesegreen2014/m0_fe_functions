@@ -43,6 +43,16 @@ console.log(`The square of ${chosenNumber} is ${answer}.`);
 // 5: Write a function named checkStock that satisfies the following interaction pattern:
 // Hint: You will only write one checkStock function that checks the quantity and then prints the corresponding statement.
 
+function checkStock (number, item) {
+    if (number >= 4) {
+      console.log(`${item} is stocked`);
+    } else if (number > 1 && number <= 3) {
+      console.log(`${item} - running low`);
+    } else if (number <= 0) {
+      console.log(`${item} - out of stock!`);
+    }
+  }
+
 checkStock(4, "Coffee");
 // => "Coffee is stocked"
 
