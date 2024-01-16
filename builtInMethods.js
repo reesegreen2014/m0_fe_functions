@@ -2,21 +2,24 @@
 // Run each line of code below (either from this file or in dev tools).
 // Then, in a comment, write 1-2 sentences describing what is happening, using ALL the involved vocabulary terms you've learned in this lesson so far.
 
+
+
 // EXAMPLE
 // The toLowerCase() method is called on the string "Hello World"
 // No arguments are passed; toLowerCase() has one clear job which is to lowercase all letters that exist in the String
 // The return value is "hello world"
-"Hello World".toLowerCase();
+"Hello World".toLowerCase(); 
+// This code is taking all characters located within the string and converting them into lowercase letters using the built-in method .toLowerCase
 
 
 "Hello World".includes("Hello");
-
+//This code is using the built-in method .includes to return a Boolean of true or false based on if the selected word matches what is within the initial string. This code returns "true" output.
 
 "Hello World".endsWith("Hello");
-
+//This code is using the built-in method .endsWith to return a Boolean of true or false based on if the entered value matches the ending of the string. Because "Hello World" does not end with "Hello", this returns False.
 
 "Hello World".endsWith("rld");
-
+//This code is using the built-in method .endsWith to return a Boolean of true or false based on if the entered value matches the ending of the string. Because "Hello World" ends with the characters "rld", this returns True.
 
 
 // SECTION 2: Calling methods on variables assigned to strings.
